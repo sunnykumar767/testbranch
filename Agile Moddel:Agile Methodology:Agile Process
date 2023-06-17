@@ -1,0 +1,73 @@
+Agile Moddel/Agile Methodology/Agile Process
+-- Iterative (Same Process Multiple) & Increemental (Adding new process into existing process) Approach
+-- In Agile - 2 Priniciples
+--- Customer no need to wait to complete the development and testing
+--- We will work on 5-10 Feature and provide the software to the customer ASAP
+--- While customer is working on the software we will work on the next 10 features
+--- We can accomodate the new requirements into the existing process
+-- Communication is good between the client, business analysts, developer & tester. Which work towards the one goal to achive
+
+Advantages
+-- Accept the requirement in the middle of the process
+-- Releases will be faster
+-- Team communication is good
+-- Easy to adopt
+
+Disadvantages
+-- Very less documentions. Because the releases are too fast.
+
+Agile is the process model (how the process should be) Defined process
+Scrum is the framework which follow the prinicple of Agile. Which help in development and test using Agile Priniciple.
+
+SCRUM IN AGILE
+-- Scrum is the framework which follow the prinicple of Agile. Which help in development and test using Agile Priniciple.
+SCRUM TEAM (Consist 5-9 Members)
+-- Product Owner (PoC)
+----- Define the feature of the software. He will always connected to the customer
+----- Priorities the features according to the Market Value.
+----- Adjust the feature according to the cycle
+----- Accept & Reject the work
+
+-- Scrum Master (Acting as a Leader)
+----- Different role and Different person (He is not the dev and any management)
+----- He baiscally the fliciating & drive the Agile Process
+
+-- Development Team & Tester Team
+----- Design & Tester Team
+
+Very Important Termonolgies of Scrum in Agile
+-- USER STORY - A feature/module in a software (Smaller Requirements)
+-- EPIC - Collection of User Stories and Epic can be divided into different User Stories (Product Owner is responsibile)
+-- PRODUCT BACKLOG - List of User Stories (Product Owner is responsibile. This is a document) defined by the product owner in the initial step
+-- SPRINT - Period/Span of time in which User Story needs to be completed. Or we can call Iteration too. (Design, Dev & test the feature) SPRINT is defined by the Product Owner with Team. 2-4 Weeks of the time
+-- SPRINT PLANING MEETING - Meeting with the Team to define what can be delivered in the SPRINT or DURATION (Develop & Testing) [How many stories are in backlog, How many stories can be develop and tested in a given SPRINT]
+-- SPRINT BACKLOG - List of the commited User Stories which Dev & Test team will be working on the given SPRINT.
+-- SCRUM MEETING - Everyday 15 Mins Meeting (Scrum Call/Standup Meeting by SCRUM MASTER) SCRUM MASTER tracking the progress of the development. Status is shared in the SCRUM MEETING (What did you do yesterday, What you will do today and what are the obstacles to complete the SPRINT)
+-- SPRINT RETROSPETIVE MEETING - It is done at the end of the every SPRINT. The entire team will take participate. What went wrong, What went well, and what imporvements needs to be done in the next SPRINT.
+-- STORY POINT - Rough estimation of User Stories by Dev & QA in the form of FIBONACCI SERIES
+1 STORY POINT = 1hour/1day (6 hours)
+-- BURN DOWN CHART - Chart created by SCRUM MASTER. How much work is pending in the SPRINT
+
+
+
+DEFINATION OF READY
+-- Clear
+-- Testable
+-- Feasable
+-- Acceptance Criteria
+-- Dependencies Defined
+-- Story sezied by the Dev/QA Team
+-- Accept user experinence artifacts
+-- Performance Criteria
+-- Demo to the User Story
+
+DEFINATION OF DONE
+-- Code Produced (All todos are done)
+-- Code commented, checked and run
+-- Peer Reviewd
+-- Build without error
+-- Testing done
+-- Demo Done
+-- Demo Approved
+-- Released done
+-- 

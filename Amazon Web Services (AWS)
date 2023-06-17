@@ -1,0 +1,171 @@
+Amazon Web Services (AWS)
+--------------------------
+1. Clound Compluting Funcdamentals
+2. What is AWS
+3. AWS Career
+4. AWS Global Infrastructure
+5. AWS Computing Services
+6. AWS Storgae Services
+7. AWS Security
+8. AWS Database Services
+9. AWS Network Services
+10. AWS DevOps Services
+
+1. CLOUD COMUTING FUNDAMENTAL
+-----------------------------
+-- Enables on-demand service like compute, storage, networking, etc.
+
+FEATURES
+------------
+-- Explore through internet
+-- Pay as you go
+-- Scalable
+-- Flexible
+-- Secure & Disaster Recovery
+
+CLOUD SERVICE MODELS
+---------------------
+-- IAAS - Infrastructure
+-- SAAS - Software
+-- PAAS - Platform
+-- DAAS - Database
+-- STAAS - Storage
+
+CLOUD DEPLOYMENT MODELS
+-----------------------
+-- Public Model
+-- Private Model
+-- Community Model
+-- Hybrid Model
+
+CLOUD COMPUTING MYTHS
+---------------------
+-- Cloud Computing Costs Job
+-- Cloud is fir Techies Alone
+-- Not Safe
+-- Just for Virtualization
+
+CLOUD SERVICE PROVIDERS
+-----------------------
+-- Amazon Web Service (AWS)
+-- Microsoft Azure
+-- Google Cloud
+-- IBM Cloud
+
+2. What is AWS
+==================
+-- Enables on-demand service like compute, storage, networking, etc.
+
+3. AWS Career
+--------------
+-- Cloud Architect
+---- Designs the Architect of the cloud. Blue Prints Designs
+---- Understand Cloud Services
+---- Design Multi Tier Cloud Application
+---- Implement Cost Control Strategies
+
+-- Cloud Developer
+---- Develop the blue prints into the cloud application
+---- Expertise in Programming Language
+---- Engage in DevOps Practice
+---- Understand SDLC
+
+-- Cloud Adminstrator
+---- Maintenance cloud
+---- Understand System Opertation & VM
+---- Ability to Migrate & Monitor on-premise Data
+
+4. AWS Global Infrastructure
+----------------------------
+-- Presence in 235+ Countries
+
+5. AWS Core Service
+-------------------
+-- Computing
+-- Storage
+-- Database
+
+-- Networking
+-- Security
+-- Migration
+
+-- Management Tools
+-- Messaging
+-- Analytics
+
+
+6. AWS LAMBDA
+-------------
+-- Serveless Compute
+-- No need to worried about the launch and resources
+-- Just add the code and all can handle by AWS
+
+7. AWS Elastic Load Balancer
+----------------------------
+-- Distribute the load among the instences interms of the incoming traffics.
+-- Types of Load Balance
+----- Classic Load Balance
+----- Network Load Balance
+----- Application Load Balance
+
+8. AWS Autoscaling
+------------------
+-- EC2 instances will always be available for upscale and downscale according to the load or traffic.
+
+9. AWS EC2 (Basic Level)
+------------------------
+-- Instances
+-- Types of Instances
+---- General Purpose Instances (T Series)
+---- Compute Instances
+---- Memory Instances
+---- GPU Instances
+---- Storage Instances
+
+10. Pricing Model
+------------------
+-- On Demand Instances
+-- Dedicated Instances
+-- On Spot Instances
+-- Reserved Instances
+
+11. Application Based Instances
+-------------------------------
+-- Burstible Instances
+-- EBS Optmised Instances (Need Consistency - High I/O)
+-- Dedicated
+-- Cluster Application (Multiple Resource)
+
+12. Demo Compute Service
+--------
+-- Launch an Instance
+-- Beanstalk 
+
+13. Cloud Storage Service
+------------------------------
+-- Data Storage
+---- Data Backup
+---- Application Data
+---- Messageind Data
+---- Multimedia Data
+
+14. AWS Cloud Storage Service
+------------------------------
+- Block Storage (Connect with instance)
+-- EBS (Elastic Block Storage Persistence)
+---- SSD Based (Small Volume of data)
+---- HDD Based (Large Volume of Data)
+-- Amazon EC2 (Epemeral)
+- Object Storage
+-- Amazon S3
+-- Amazon Glacier
+- EFS (Elastic File System)
+
+15. AWS S3 (Web Service)
+-----------
+-- It store the data in Bucket
+-- S3 CRR
+-- S3 Versioning
+
+16. Demo AWS S3
+-----------------
