@@ -1,0 +1,36 @@
+-- Test Management Tools
+-- Bug/Defect Reporting & Tracking Tools
+-- Agile Tools (Designed to tracking to Agile Process)
+---- JIRA Tool
+---- VersionOne
+---- Teamcity
+
+JIRA TOOL (Aligle Tool)
+----------------
+-- Agile Management tool (Development/Testing/Product Owner)
+-- Test Management tool (Using the Zapfire Plugin within the JIRA)
+
+HOW TO INSTALL & CONFIGURE JIRA
+-------------------------------
+Cloud Based:
+--- Pro Version
+--- Free Version : 10 Users/30 Days
+
+
+
+AGILE SCRUM ACTIVITES
+---------------------
+1. How to create project in JIRA
+2. Add users to the particular project in JIRA
+
+Backlog --> Epic --> Multiple Stories
+Create Sprint --> Add stories to the Sprint --> Start Sprint --> add task for every story
+
+
+Backlog --> Epic
+-------------------
+Under Project Go to Backlog -> Verison
+Issue Type -Stroty Task Epic
+
+3. How to create the Stories in JIRA & Add Story points
+4. Create a Sprint (2-4 Weeks) and Assign the Stroies to the Sprint from Backlog

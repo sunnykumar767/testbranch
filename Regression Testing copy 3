@@ -1,0 +1,122 @@
+Regression Testing
+---------------------
+-- Testing on modified module
+-- Type of Regression
+--- Unit Regression - Only tested the particular moduler
+--- Regional Regression - Modified as well as the impacted module.
+--- Impacted Analysis
+--- Full Regression - 
+
+Retesting
+----------------------
+We just verify the bugs which is reported earlier and the one which is fixed
+
+Smoke & Sanity Testing (Baisc functionality to test)
+----------------------
+SMOKE TESTING (Build verification tetsing)
+-- Health Checkup
+-- Check the build if all the files are proper or not.
+-- Check the installation process
+-- Check the build is stable or not
+-- Basic navigation is working or not
+-- No test cases needed
+-- It is done on every build
+-- To check if the software is stable or not
+-- Testing is done on Unstable Builds
+-- This is basic testing
+-- Dev & Tester done by both
+
+SANITY TESTING (High Level Functionality)
+-------------------------
+-- Done by the tester only.
+-- Basic functionlaity is working is not working
+-- Check the high level functionality
+-- The build is more stable
+-- Part of regression
+-- When we don't have time and need to check the software (High Level functionlaity)
+
+EXPLORATORY TESTING
+-------------------------
+-- Don't have any documentation but application is ready but we need to check the application by exploring the application
+
+Drawbacks
+- Misunderstand any feature as a bug and bug as a feature
+- Time Consuming
+- if there is any bug in application, you will never know about it.
+
+ADOHC TESTING (Informal testing)
+--------------------------
+-- Randomly testing the application
+-- No Documentation
+-- No Test Design
+-- No Test Case
+-- Main Purpose - to break the functionality
+
+MONKEY/GROLLIA TESTING (Informal testing)
+------------------------
+-- Randomly testing the application without know about the application
+-- No Documentation
+-- No Test Design
+-- No Test Case
+-- Main Purpose - to break the functionality
+
+POSTIVE TESTING
+-----------------------
+-- Testing application with valid input
+
+POSTIVE TESTING
+-----------------------
+-- Testing application with invalid input
+
+END TO END TESTING
+-----------------------
+-- Test overall functionality covering all the modules.
+
+GLOBALIZATION & LOCALIZATION TESTING
+-------------------------------------
+
+
+
+======================================
+
+TEST DESIGN TECHNIQUES
+-----------------------
+Used to prepare data for test
+1) Data (Test Data)
+2) Coverage (Each & Every Cover of Functionality)
+** Minimul data with maximum coverage
+
+FIVE TYPES OF TEST DESIGN TECHNIQUES
+------------------------------------
+1. Equivalence Class Partitioning (ECP)
+2. Boundary Value Analysis (BVA)
+3. Decision Table Based Testing
+4. State Transition
+5. Error Guessing
+
+INPUT DOMAIN TESTING
+---------------------
+1. Equivalence Class Partitioning (ECP)
+-- Divide the data into classes and use the same as a data to test
+-- Partition data into classes
+-- Value Check
+-- Clasify the data into the multiple classes
+
+2. Boundary Value Analysis (BVA)
+-- Limit the data in boundary
+-- Consider 6 Paramerter
+Min, Min+1, Min-1
+Max, Max+1, Max-1
+
+
+3. Decision Table Based Testing
+-- Called as Cause-Effect Table
+-- More no. of condition and corresponding actions.
+
+4. State Transition
+-- Test the behaviour of the application
+-- Testing the valid & invalid input to check the behaviour of the application 
+-- Multiple states
+
+5. Error Guessing
+-- Guessing the error

@@ -1,0 +1,37 @@
+Docker Knowledgebase
+
+Docker File
+------------------
+This the text file which contain the commands which can be used to create the container image.
+This will have the instruction which can be run on Commond line
+
+
+Docker Image
+------------------
+Template to create a container
+
+Docker Container
+-----------------
+Running instance of the docker image
+It contains the package
+
+Docker Commands
+-----------------
+-- docker -v or docker --version (for version)
+-- docker pull [image_name]  (Pull image)
+-- docker search [image_name] (Search image)
+-- docker images (to show all the images)
+-- docker run [image_name] (Run image)
+-- docker ps -a (show all containers)
+-- docker run -name [containerName] -d (for detach mode) [Image_Name]
+-- docker run -name [containerName] -it (interactive mode) -d (for detach) [Image_Name]
+-- docker exec  -it (interactive mode) [containder_Id] command
+-- docker inspect [continer_id] (to get the details of the container)
+-- docker stop [containerName] (to stop the container)
+-- docker rm [containerName] (to remove the container)
+-- docker rmi [imageName] (to remove the image)
+
+Docker File
+---------------
+-- Create docker file
+-- docker build -t [customimagename](must be lowercase) . (After name add space and dot)
